@@ -74,6 +74,14 @@ a:hover {
     font-size: 1.7rem;
 }
 
+.middle-container {
+    margin-top: 100px;
+}
+
+.skills-title {
+    margin-top: 150px;
+}
+
 hr {
     border: none;
     border-bottom: 2px solid #5fae8c;
@@ -89,6 +97,10 @@ hr {
 .skill {
     width: 50%;
     text-align: center;
+}
+
+.get-in-touch {
+    margin-top: 150px;
 }
 
 button {
@@ -126,5 +138,9 @@ button {
     font-size: 20px;
     cursor: pointer;
     border: none;
-    margin: 30px;
+    margin: 30px 0 150px;
+}
+
+.bottom-container {
+    margin-bottom: 50px;
 }
